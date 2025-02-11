@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_profile"
+        android:title="Profile"
+        android:icon="@drawable/baseline_person_24"/>
+
+    <item
+        android:id="@+id/nav_settings"
+        android:title="Settings"
+        android:icon="@drawable/ic_setting"/>
+
+    <item
+        android:id="@+id/nav_wishlist"
+        android:title="Wishlist"
+        android:icon="@drawable/ic_whishlist"/>
+
+    <item
+        android:id="@+id/nav_change_password"
+        android:title="Change Password"
+        android:icon="@drawable/ic_change_password"/>
+
+    <item
+        android:id="@+id/nav_logout"
+        android:title="Logout"
+        android:icon="@drawable/ic_logout"/>
+</menu>
